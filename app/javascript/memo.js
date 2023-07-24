@@ -33,5 +33,5 @@ function post (){
     };
   });
 };
-
+test
 window.addEventListener('turbo:load', post);
